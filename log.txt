@@ -1,0 +1,6 @@
+10-19-20
+-install Python 3.6+ and PIP
+-install virtualenv
+-create proj dir
+-create virtualenv
+-install req packages
